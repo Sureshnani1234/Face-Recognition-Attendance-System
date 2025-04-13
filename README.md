@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face-recognition-Attendance-System-Project
 Final Year Face recognition Attendance System Project 
 
@@ -36,3 +37,6 @@ This System uses facial recognition technology to record the attendance through 
 ### Youtube Implementation Video : https://youtu.be/tLhFaAurhGw
 
 IMP : If you are getting error/problems/queires then Reach me will help you
+=======
+# Face-Recognition-Attendance-System
+>>>>>>> 206b02aac337c6dd4ed8afad402972732c7d20a4
